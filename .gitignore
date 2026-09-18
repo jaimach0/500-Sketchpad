@@ -13,6 +13,7 @@ venv/
 /data/
 frontend/node_modules/
 frontend/dist/
+frontend/test-results/
 *.tsbuildinfo
 .DS_Store
 /out/
